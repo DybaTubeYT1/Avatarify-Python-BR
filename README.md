@@ -1,4 +1,4 @@
-![](docs/mona.gif)
+!(docs/mona.gif)
 
 <!-- Download [Windows app (beta)](https://github.com/alievk/avatarify/wiki/Windows-App) -->
 
