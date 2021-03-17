@@ -268,26 +268,27 @@ Avatarify supports any video-conferencing app where video input source can be ch
 
 Go to Settings -> Audio & Video, choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) camera.
 
-<img src=docs/skype.jpg width=600>
+<img ![skype](https://user-images.githubusercontent.com/80713813/111460804-2c1ddd00-86fb-11eb-8e6f-d03e58db35e0.jpg)
+ width=600>
 
 ### Zoom
 
 Go to Settings -> Video and choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) from Camera drop-down menu.
 
-<img src=docs/zoom.jpg width=600>
+![zoom](https://user-images.githubusercontent.com/80713813/111461235-b6664100-86fb-11eb-9f05-ce6d5bf3b2c0.jpg)
+
 
 ### Teams
 
 Go to your profile picture -> Settings -> Devices and choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) from Camera drop-down menu.
 
-<img src=docs/teams.jpg width=600>
+![teams](https://user-images.githubusercontent.com/80713813/111460993-6dae8800-86fb-11eb-875e-d78088ff7ce7.jpg)
 
 ### Slack
 
 Make a call, allow browser using cameras, click on Settings icon, choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) in Video settings drop-down menu.
 
-<img src=docs/slack.jpg width=600>
-
+![slack](https://user-images.githubusercontent.com/80713813/111461289-c847e400-86fb-11eb-8e14-c2b26a1d4fb9.jpg)
 
 ## Uninstall
 To remove Avatarify and its related programs follow the [instructions](https://github.com/alievk/avatarify/wiki/Removing-Avatarify) in the Wiki.
