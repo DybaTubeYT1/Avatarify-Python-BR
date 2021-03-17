@@ -1,8 +1,8 @@
-![](docs/mona.gif)
+![mona](https://user-images.githubusercontent.com/80713813/111460108-5753fc80-86fa-11eb-8875-043a6c787623.gif)
 
 <!-- Download [Windows app (beta)](https://github.com/alievk/avatarify/wiki/Windows-App) -->
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alievk/avatarify/blob/master/avatarify.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bElP9KQI9aQPiDfIE5kg1R4_kqATe8Pn?usp=sharing)
 
 <!-- [<img src="https://img.shields.io/badge/slack-join-brightgreen?style=flat&logo=slack">](https://join.slack.com/t/avatarify/shared_invite/zt-dyoqy8tc-~4U2ObQ6WoxuwSaWKKVOgg) -->
 
